@@ -1,0 +1,23 @@
+{
+  "name": "bamazon-cli-app",
+  "version": "1.0.0",
+  "description": "A MySQL database with products that can be bought through a command line Node.js interface.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateWolves/Bamazon-CLI-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateWolves/Bamazon-CLI-App/issues"
+  },
+  "homepage": "https://github.com/NateWolves/Bamazon-CLI-App#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
